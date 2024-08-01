@@ -1,0 +1,3 @@
+Responsable: Emily Tamayo, Roberto Morán
+Descripción: Implementar los servicios y controladores necesarios para manejar las solicitudes y respuestas del sistema.
+Utilizar la anotación @RestController y definir los endpoints necesarios.
